@@ -1,0 +1,14 @@
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/bin/Debug/net8.0/TavernSystem.Model
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/bin/Debug/net8.0/TavernSystem.Model.deps.json
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/bin/Debug/net8.0/TavernSystem.Model.runtimeconfig.json
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/bin/Debug/net8.0/TavernSystem.Model.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/bin/Debug/net8.0/TavernSystem.Model.pdb
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.AssemblyInfoInputs.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.AssemblyInfo.cs
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.csproj.CoreCompileInputs.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/refint/TavernSystem.Model.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.pdb
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/TavernSystem.Model.genruntimeconfig.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem.API/src/TavernSystem.Model/obj/Debug/net8.0/ref/TavernSystem.Model.dll

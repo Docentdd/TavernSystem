@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.API/TavernSystem.API.csproj": {}
+  },
+  "projects": {
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.API/TavernSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.API/TavernSystem.API.csproj",
+        "projectName": "TavernSystem.API",
+        "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.API/TavernSystem.API.csproj",
+        "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
+        "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/TavernSystem.Application.csproj": {
+                "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/TavernSystem.Application.csproj"
+              },
+              "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj": {
+                "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.0-preview1.25120.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dmytronakonechnyi/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/TavernSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/TavernSystem.Application.csproj",
+        "projectName": "TavernSystem.Application",
+        "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/TavernSystem.Application.csproj",
+        "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
+        "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj": {
+                "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dmytronakonechnyi/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/TavernSystem.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/TavernSystem.Model.csproj",
+        "projectName": "TavernSystem.Model",
+        "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/TavernSystem.Model.csproj",
+        "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
+        "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dmytronakonechnyi/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj",
+        "projectName": "TavernSystem.Repository",
+        "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/TavernSystem.Repository.csproj",
+        "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
+        "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/TavernSystem.Model.csproj": {
+                "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/TavernSystem/src/TavernSystem.Model/TavernSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.0-preview1.25120.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dmytronakonechnyi/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
