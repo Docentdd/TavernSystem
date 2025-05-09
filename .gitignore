@@ -1,8 +1,22 @@
-# Ignore build files
-/bin/
-/obj/
-*.log
+# Ignore user-specific files
+*.user
+*.suo
 
-# Ignore Rider-specific files
-.idea/
-*.iml
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled libraries
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Ignore package manager directories
+node_modules/
+vendor/
+
+# Ignore environment files
+.env
+.env.local
