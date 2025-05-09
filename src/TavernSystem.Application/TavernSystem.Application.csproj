@@ -8,4 +8,8 @@
         <RootNamespace>TavernSystem.Logic</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\TavernSystem.Repository\TavernSystem.Repository.csproj" />
+    </ItemGroup>
+
 </Project>

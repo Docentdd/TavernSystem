@@ -1,6 +1,11 @@
+using TavernSystem.Model;
+
 namespace TavernSystem.Repository;
 
-public class IAdvRepository
+public interface IAdvRepository
 {
-    
+    List<Adventurer> GetAllAdventurers();
+    Adventurer GetAdventurerById(int id);
+    void AddAdventurer(Adventurer adventurer);
+    Person GetPersonById(string id);
 }
