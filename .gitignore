@@ -1,5 +1,8 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+# Ignore build files
+/bin/
+/obj/
+*.log
+
+# Ignore Rider-specific files
+.idea/
+*.iml
