@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TavernSystem.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b613b77403331d2a91645988f7144185fe1b8861")]
 [assembly: System.Reflection.AssemblyProductAttribute("TavernSystem.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TavernSystem.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
